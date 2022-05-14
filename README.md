@@ -1,5 +1,8 @@
-# ff-cairo
-An Cairo implementation of finite field operations.
+# ff-cairo-384-bit
+An Cairo implementation of finite field operations at 384 bits.
+
+# Testing
+`pytest tests/bigint.py  `
 
 # GOAL
 
